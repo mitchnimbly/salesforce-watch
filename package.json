@@ -1,0 +1,13 @@
+{
+  "name": "salesforce-watch",
+  "version": "1.0.0",
+  "repository": "git@github.com:mitchnimbly/salesforce-watch.git",
+  "author": "Mitch Conquer <mitch.conquer@gonimbly.com>",
+  "private": false,
+  "scripts": {},
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "cli-spinner": "^0.2.8",
+    "fb-watchman": "^2.0.0"
+  }
+}
